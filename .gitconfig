@@ -1,0 +1,7 @@
+[user]
+	email = kovzalov.aleksandr@mail.ru
+	name = deadhorcrux
+[credential]
+	helper = store
+[core]
+	excludesFile = /.gitignore
